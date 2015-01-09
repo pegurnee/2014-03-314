@@ -1,0 +1,117 @@
+The relation with maxtrix: 
+1 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 
+
+is reflexive,
+is symmetric,
+is transitive,
+is antisymmetric,
+is an equivalence relation with the equivalence classes:
+{1} {2} {3} {4} {5} {6} {7} {8} 
+
+The relation with maxtrix: 
+1 0 0 1 0 0 0 1 
+0 1 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 0 0 0 1 0 1 0 
+0 0 0 0 0 1 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 0 
+
+is not reflexive,
+is not symmetric,
+is transitive,
+is antisymmetric,
+is not an equivalence relation
+
+The relation with maxtrix: 
+1 0 0 0 0 1 0 0 
+0 1 0 1 0 0 0 1 
+0 0 1 0 1 0 0 0 
+0 1 0 1 0 0 0 1 
+0 0 1 0 1 0 0 0 
+1 0 0 0 0 1 0 0 
+0 0 1 0 1 0 0 0 
+0 1 0 1 0 0 0 1 
+
+is not reflexive,
+is not symmetric,
+is transitive,
+is not antisymmetric,
+is not an equivalence relation
+
+The relation with maxtrix: 
+1 1 0 1 0 1 0 0 
+1 1 0 1 0 1 0 0 
+0 0 1 0 0 0 1 0 
+1 1 0 1 0 1 0 0 
+0 0 1 0 1 0 0 0 
+1 1 0 1 0 1 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 
+
+is reflexive,
+is not symmetric,
+is not transitive,
+is not antisymmetric,
+is not an equivalence relation
+The matrix of its transitive closure is:
+1 1 0 1 0 1 0 0 
+1 1 0 1 0 1 0 0 
+0 0 1 0 0 0 1 0 
+1 1 0 1 0 1 0 0 
+0 0 1 0 1 0 1 0 
+1 1 0 1 0 1 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 0 0 0 1 
+
+
+The relation with maxtrix: 
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+0 0 0 1 0 0 0 1 
+0 0 0 0 0 0 0 1 
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+0 0 0 1 1 0 0 1 
+
+is not reflexive,
+is symmetric,
+is not transitive,
+is not antisymmetric,
+is not an equivalence relation
+The matrix of its transitive closure is:
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+0 0 0 1 1 0 0 1 
+0 0 0 1 1 0 0 1 
+1 1 1 0 0 1 1 0 
+1 1 1 0 0 1 1 0 
+0 0 0 1 1 0 0 1 
+
+
+The relation with maxtrix: 
+1 0 0 0 0 1 0 0 
+0 1 1 1 0 0 1 1 
+0 1 1 1 0 0 1 1 
+0 1 1 1 0 0 1 1 
+0 0 0 0 1 0 0 0 
+1 0 0 0 0 1 0 0 
+0 1 1 1 0 0 1 1 
+0 1 1 1 0 0 1 1 
+
+is reflexive,
+is symmetric,
+is transitive,
+is not antisymmetric,
+is an equivalence relation with the equivalence classes:
+{1, 6} {2, 3, 4, 7, 8} {5} 
